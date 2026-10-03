@@ -1,0 +1,1 @@
+Computer science student. Built a car parking system in Java and a railway reservation project in Python. Skills: C++, Python, SQL, data structures.
